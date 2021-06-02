@@ -1,7 +1,7 @@
 /*
 snake game 
-author-SKD
-2013
+author-Shivang mishra
+2020
 
 */
 #include <iostream>
